@@ -1,3 +1,4 @@
+// https://www.codewars.com/kata/52c31f8e6605bcc646000082
 void twoSum(unsigned count, const int numbers[count], int target,
 			unsigned *index1, unsigned *index2)
 {

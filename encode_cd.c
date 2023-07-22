@@ -1,8 +1,6 @@
+// https://www.codewars.com/kata/643a47fadad36407bf3e97ea
 #include <stdlib.h>
 #include <malloc.h>
-
-//  return dynamically allocated C-string
-//  output result will be freed by tester
 
 const char *encode_cd(unsigned char n) 
 {
