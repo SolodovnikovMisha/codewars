@@ -1,3 +1,4 @@
+//https://www.codewars.com/kata/559e10e2e162b69f750000b4
 #include <stddef.h>
 
 int dominator(const int *array, size_t n) 
