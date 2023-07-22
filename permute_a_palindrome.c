@@ -1,3 +1,4 @@
+// https://www.codewars.com/kata/58ae6ae22c3aaafc58000079
 #include <stdbool.h>
 
 bool permute_a_palindrome(const char *str_in) 
